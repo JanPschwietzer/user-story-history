@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    background-color: lightgray;
+}
+header{
+    padding: 7px;
+}
+#side-header{
+    padding: 20px;
+}
+
+figure{
+    background-color: white;
+    padding: 10px;
+}
+img{
+    width: 623px;
+    max-width: 80%;
+    height: auto;
+}
+#sub-heading{
+    font-size: 20px;
+    padding: 30px;
+}
+ul{
+    text-align: left;
+    padding: 0 20% 0 20%;
+    text-align: justify;
+}
+li{
+    padding-bottom: 10px; 
+    font-size: 14px;
+    line-height: 20px;
+}
+#quote{
+    padding: 25px 20% 25px 20%;
+    font-style: italic;
+}
+h2{
+    font-size: 18px;
+    padding: 0 0 10px 0;
+}
