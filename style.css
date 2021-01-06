@@ -13,6 +13,9 @@ header{
 figure{
     background-color: white;
     padding: 10px;
+    margin: auto;
+    width: 900px;
+    max-width: 90%;
 }
 img{
     width: 623px;
@@ -25,7 +28,9 @@ img{
 }
 ul{
     text-align: left;
-    padding: 0 20% 0 20%;
+    margin: auto;
+    width: 623px;
+    max-width: 80%;
     text-align: justify;
 }
 li{
@@ -33,8 +38,15 @@ li{
     font-size: 14px;
     line-height: 20px;
 }
+#shorter{
+    width: 580px;
+}
 #quote{
-    padding: 25px 20% 25px 20%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: auto;
+    width: 623px;
+    max-width: 80%;
     font-style: italic;
 }
 h2{
